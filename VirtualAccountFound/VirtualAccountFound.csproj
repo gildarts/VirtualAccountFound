@@ -42,6 +42,10 @@
       <HintPath>..\..\..\Desktop\ischool desktop\kernel\FISCA.Data.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="FISCA.Permission">
+      <HintPath>..\..\..\Desktop\ischool desktop\kernel\FISCA.Permission.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="FISCA.Presentation">
       <HintPath>..\..\..\Desktop\ischool desktop\kernel\FISCA.Presentation.dll</HintPath>
       <Private>False</Private>
